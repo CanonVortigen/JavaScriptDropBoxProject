@@ -1,4 +1,4 @@
-# Dropbox Clone
+<h1 class align='center'>Dropbox Project</h1>
 
 ### Project visual
 ![DropBox Clone](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/DropBoxClone.jpg?alt=media&token=d59cad0c-440d-4516-88f2-da904b9bb443)
@@ -40,4 +40,4 @@ npm start
 
 **About the database:**
 This project uses [Firebase](https://firebase.google.com) as a database.
-For security reasons, I am not adding the "ConnectFirebase.js" file. It's just a very simple class where the database settings are created in the class constructor.
+
