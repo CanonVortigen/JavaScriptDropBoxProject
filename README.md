@@ -40,4 +40,4 @@ npm start
 
 **About the database:**
 This project uses [Firebase](https://firebase.google.com) as a database.
-For security reasons, I am not adding the "ConnectFirebase.js" file. It's just a very simple class where my bank settings are created in the class constructor.
+For security reasons, I am not adding the "ConnectFirebase.js" file. It's just a very simple class where the database settings are created in the class constructor.
